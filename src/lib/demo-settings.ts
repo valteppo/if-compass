@@ -1,0 +1,1 @@
+export const defaultDemoSettings = { focus: true, lang: "fi" as const, view: "customer" as const };
